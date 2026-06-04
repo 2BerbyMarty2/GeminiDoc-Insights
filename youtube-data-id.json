@@ -1,0 +1,25 @@
+{
+  "channel": "IBM Technology",
+  "videos": [
+    {
+      "title": "What is LangChain?",
+      "id": "1bUy-1hGZpI"
+    },
+    {
+      "title": "LangChain vs LangGraph: A Tale of Two Frameworks",
+      "id": "qAF1NjEVHhY"
+    },
+    {
+      "title": "Generative vs Agentic AI: Shaping the Future of AI Collaboration",
+      "id": "EDb37y_MhRw"
+    },
+    {
+      "title": "What is Agentic RAG?",
+      "id": "0z9_MhcYvcY"
+    },
+    {
+      "title": "RAG vs Agentic AI: How LLMs Connect Data for Smarter AI",
+      "id": "fB2JQXEH_94"
+    }
+  ]
+}
